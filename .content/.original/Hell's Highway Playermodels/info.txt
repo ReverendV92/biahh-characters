@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"Brothers in Arms: Hell's Highway Playermodels"
+	"version"	"1.0"
+	"up_date"	"15 september 2010"
+	"author_name"	"RR_Raptor65, Jesse V92"
+        "author_email"	"desertyetti@firestormstudios.us"
+	"author_url"	"http://www.firestormstudios.us"
+	
+	"info"		"Brothers in Arms: Hell's Highway Player Models. Ported by RR_Raptor65; Converted to Addon Format by Jesse V92."
+}

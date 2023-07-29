@@ -1,0 +1,18 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/v92/biahh/characters/british/pilot_diff
+	$bumpmap models/v92/biahh/characters/british/pilot_normal
+
+	$halflambert 1
+	$alphatest 1
+
+	$phong 1
+	$phongexponent 12
+	$phongboost 0.02
+	$phongfresnelranges "[ 1 3 6 ]"
+	$phongalbedotint 1 
+
+}
+

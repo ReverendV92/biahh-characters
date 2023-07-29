@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/hells_highway/para_m43/officer_diff"
+	"$halflambert" "1"
+        "$bumpmap" "models/hells_highway/para_m43/officer_normal"
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost" "0.02"
+	"$phongfresnelranges"	"[1 3 6]"
+	"$phongalbedotint" "1"	
+}
+

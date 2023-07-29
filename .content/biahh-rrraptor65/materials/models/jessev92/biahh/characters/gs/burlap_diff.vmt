@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/jessev92/biahh/characters/gs/burlap_diff"
+	"$halflambert" "1"
+	"$translucent" "1"
+        "$bumpmap" "models/jessev92/biahh/characters/gs/burlap_normal"
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost" "0.01"	
+	"$phongfresnelranges"	"[1 3 6]"
+	"$phongalbedotint" "1"	
+}
+

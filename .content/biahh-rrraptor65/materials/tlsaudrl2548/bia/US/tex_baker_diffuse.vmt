@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "tlsaudrl2548\bia\us/tex_baker_diffuse"
+	"$bumpmap" "tlsaudrl2548\bia\us\tex_baker_normal"
+$lightwarptexture "tlsaudrl2548\bia\us/coach_head_wrp"
+}

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "tlsaudrl2548\bia\us\tex_baker_diffuse"
+	"$bumpmap" "tlsaudrl2548\bia\us\tex_baker_normal"
+	"$phong" 0
+	"$phongexponent" "7"
+	"$phongboost" "0.3"
+	"$phongfresnelranges"	"[0.2 0.5 0.6]"
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "0.2"
+$lightwarptexture "tlsaudrl2548\bia\us/coach_head_wrp"
+}

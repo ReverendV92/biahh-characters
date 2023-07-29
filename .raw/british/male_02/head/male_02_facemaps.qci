@@ -1,0 +1,16 @@
+
+$texturegroup skinfamilies
+{
+	{ ted_facemap eyeball_l eyeball_r }
+	{ ted_facemap eyeball_l_blue eyeball_r_blue }
+	{ ted_facemap eyeball_l_green eyeball_r_green }
+	{ ted_facemap_skin1 eyeball_l eyeball_r }
+	{ ted_facemap_skin1 eyeball_l_blue eyeball_r_blue }
+	{ ted_facemap_skin1 eyeball_l_green eyeball_r_green }
+	{ ted_facemap_skin2 eyeball_l eyeball_r }
+	{ ted_facemap_skin2 eyeball_l_blue eyeball_r_blue }
+	{ ted_facemap_skin2 eyeball_l_green eyeball_r_green }
+	{ ted_facemap_skin3 eyeball_l eyeball_r }
+	{ ted_facemap_skin3 eyeball_l_blue eyeball_r_blue }
+	{ ted_facemap_skin3 eyeball_l_green eyeball_r_green }
+}

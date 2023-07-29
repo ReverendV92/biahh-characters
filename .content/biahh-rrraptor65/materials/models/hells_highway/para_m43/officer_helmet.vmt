@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/hells_highway/para_m43/officer_helmet"
+	"$surfaceprop" "metal"
+	"$translucent" "1"
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost" "0.25"	
+	"$phongfresnelranges"	"[1 3 6]"
+	"$phongalbedotint" "1"	
+}
+

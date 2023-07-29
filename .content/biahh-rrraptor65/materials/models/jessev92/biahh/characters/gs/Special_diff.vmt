@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/jessev92/biahh/characters/gs/Special_diff"
+	"$halflambert" "1"
+        "$bumpmap" "models/jessev92/biahh/characters/gs/Special_normal"
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost" "0.02"
+	"$phongfresnelranges"	"[1 3 6]"
+	"$phongalbedotint" "1"	
+}
+
